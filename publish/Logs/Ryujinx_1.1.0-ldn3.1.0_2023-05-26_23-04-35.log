@@ -1,0 +1,30 @@
+00:00:00.056 |I| Configuration LogValueChange: ResScale set to: 1
+00:00:00.061 |I| Configuration LogValueChange: ResScaleCustom set to: 1
+00:00:00.061 |I| Configuration LogValueChange: MaxAnisotropy set to: -1
+00:00:00.061 |I| Configuration LogValueChange: AspectRatio set to: Fixed16x9
+00:00:00.062 |I| Configuration LogValueChange: BackendThreading set to: Auto
+00:00:00.063 |I| Configuration LogValueChange: GraphicsBackend set to: OpenGl
+00:00:00.064 |I| Configuration LogValueChange: PreferredGpu set to: 
+00:00:00.066 |I| Configuration LogValueChange: EnableDockedMode set to: True
+00:00:00.073 |I| Configuration LogValueChange: EnableVsync set to: True
+00:00:00.073 |I| Configuration LogValueChange: EnableShaderCache set to: True
+00:00:00.074 |I| Configuration LogValueChange: EnableTextureRecompression set to: False
+00:00:00.074 |I| Configuration LogValueChange: EnableMacroHLE set to: True
+00:00:00.074 |I| Configuration LogValueChange: EnablePtc set to: True
+00:00:00.074 |I| Configuration LogValueChange: EnableInternetAccess set to: False
+00:00:00.074 |I| Configuration LogValueChange: EnableFsIntegrityChecks set to: True
+00:00:00.074 |I| Configuration LogValueChange: FsGlobalAccessLogMode set to: 0
+00:00:00.075 |I| Configuration LogValueChange: AudioBackend set to: SDL2
+00:00:00.075 |I| Configuration LogValueChange: AudioVolume set to: 1
+00:00:00.076 |I| Configuration LogValueChange: MemoryManagerMode set to: HostMappedUnsafe
+00:00:00.076 |I| Configuration LogValueChange: ExpandRam set to: False
+00:00:00.076 |I| Configuration LogValueChange: IgnoreMissingServices set to: False
+00:00:00.076 |I| Configuration LogValueChange: UseHypervisor set to: True
+00:00:00.089 |N| Application PrintSystemInfo: Ryujinx Version: 1.1.0-ldn3.1.0
+00:00:00.094 |N| Application Print: Operating System: Microsoft Windows 10.0.19045 (X64)
+00:00:00.094 |N| Application Print: CPU: Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz ; 8 logical
+00:00:00.095 |N| Application Print: RAM: Total 16251 MiB ; Available 5296 MiB
+00:00:00.098 |N| Application PrintSystemInfo: Logs Enabled: Info, Warning, Error, Guest, Stub
+00:00:00.098 |N| Application PrintSystemInfo: Launch Mode: UserProfile
+00:00:56.268 |I| Application HandleFirmwareInstallation: Installing firmware 15.0.1
+00:00:58.932 |I| Application HandleFirmwareInstallation: 成功安装系统版本15.0.1。
